@@ -26,7 +26,7 @@
 
             <div class="mt-4">
                 <x-label for="address" value="{{ __('Address') }}" />
-                <x-input id="address" class="block mt-1 w-full" type="email" name="address" :value="old('address')" required  />
+                <x-input id="address" class="block mt-1 w-full" type="text" name="address" :value="old('address')" required  />
             </div>
 
             <div class="mt-4">
