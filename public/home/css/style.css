@@ -244,6 +244,10 @@ a:focus {
   top: 0;
 }
 
+#logincss{
+  margin-right: 10px;
+}
+
 /*end header section*/
 /* slider section */
 .slider_section {
